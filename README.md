@@ -58,8 +58,8 @@ Generated and exported analytical reports for business stakeholders
 
 Executive Reporting: Provides KPI-driven insights for leadership decision-making
 
-5. Screenshots / Demos
-
+5. Snapshot
+   
 📸 HR Analytics Dashboard Preview
-The dashboard presents a clean, modern layout with intuitive KPIs, filters, and interactive visuals for clear workforce storytelling.
+
 Link: https://github.com/Priyanka1141/HR-Analytics-dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
